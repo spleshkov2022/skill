@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@500&display=swap" rel="stylesheet');
+
+.flex-container {
+	display: flex;
+	flex-direction: column;
+	margin: 0 auto;
+	max-width: 1200px;
+	background-color: #E6E6E6;
+	padding: 5px;
+	height: 100%
+}
+
+.myImg {
+	margin-top: 100px;
+	padding-left: 20px;
+	flex-basis: 450px;
+}
+
+
+.data{
+	display: flex;
+	align-items: center;
+}
+
+.fullname {
+	margin-right: 20px;
+	flex-basis: 750px;
+}
+
+.knowledge {
+	display: flex;   
+    justify-content: center;
+	margin-right: 20px;
+	flex-basis: 750px;
+}
+
+input {
+  display: inline-block;
+  margin: 10px auto;
+  border: 2px solid #eee;
+  padding: 10px 20px;
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 16px;
+}
+textarea {
+  display: inline-block;
+  margin: 10px auto;
+  border: 2px solid #eee;
+  padding: 10px 20px;
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 16px;
+}
