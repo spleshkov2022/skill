@@ -631,7 +631,7 @@
             <div class="gmap">
                 <div id="map" class="map height-400"></div>
                 <address class="gmap-address">
-                    <p class="color-heading margin-b-0">277 Bedford Avenue, 11211, New York, USA</p>
+                    <p class="color-heading margin-b-0">Обратная связь</p>
 					<div>
 					<!-- Создаём форму и указываем её обработчик и метод -->
 						<form action="http://localhost/skill/post.php" method="post" name="form">
